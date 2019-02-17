@@ -1,0 +1,5 @@
+# database login
+database:
+  host: 'ds139690.mlab.com:39690/muse-labyrinthe'
+  username: 'vadim'
+  password: 'vadim777'
